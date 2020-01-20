@@ -1,0 +1,16 @@
+# theme: jekyll-theme-leap-day
+
+# Site settings
+title: CS286b
+email: hellerstein@berkeley.edu
+author:
+description: Berkeley Grad Database Course Website Sp20
+
+
+baseurl: /cs286b
+
+# Build settings
+# permalink: :title/
+sass:
+  sass_dir: css
+
