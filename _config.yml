@@ -7,10 +7,10 @@ author:
 description: Berkeley Grad Database Course Website Sp20
 
 
-baseurl: /CS286-Sp20
+# baseurl: /CS286-Sp20
 
 # Build settings
-permalink: :title/
+# permalink: :title/
 sass:
   sass_dir: css
 
