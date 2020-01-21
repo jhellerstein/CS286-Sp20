@@ -7,7 +7,7 @@ author:
 description: Berkeley Grad Database Course Website Sp20
 
 
-baseurl: /cs286b
+baseurl: /CS286-Sp20
 
 # Build settings
 # permalink: :title/
