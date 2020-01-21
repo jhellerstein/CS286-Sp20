@@ -101,7 +101,7 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 
 This lecture will be an overview of the class and requirements. We will go over the history of the field and review some core architectural questions that need to be addressed in any data serving system.
 
-* [Lecture notes]()
+* [Lecture notes](https://docs.google.com/document/d/1xYb_nHPbjmVAF_ahUvdRx2OOxI_m9fUP0bpdOUepqXk/edit#)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
