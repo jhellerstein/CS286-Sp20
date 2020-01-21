@@ -99,7 +99,7 @@ This is a tentative schedule.  Specific readings are subject to change as new ma
 {% include syllabus_entry %}
 ## Introduction and Course Overview
 
-This lecture will be an overview of the class and requirements. We will go over the history of the field and review a canonical database system architecture.
+This lecture will be an overview of the class and requirements. We will go over the history of the field and review some core architectural questions that need to be addressed in any data serving system.
 
 * [Lecture notes]()
 
