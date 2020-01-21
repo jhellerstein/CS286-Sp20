@@ -10,7 +10,8 @@ layout: default
 * **Instructor**: [Joe Hellerstein](https://dsf.berkeley.edu/jmh)
    * **Office Hours:** TBD.
 * **Announcements**: [Piazza](https://piazza.com/class/k5mxqow7ugc42v)
-* **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1p8q7vnds821-_w43H-IppjMKPV5KpOl3fVPZCY27RpM/edit#gid=0) Later in the semester we will be doing student presentations which we will fill in here.
+* **Sign Up** [Google Form at http://bit.ly/cs286-20](http://bit.ly/cs286-20)
+<!-- * **Sign-up to Present**: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1p8q7vnds821-_w43H-IppjMKPV5KpOl3fVPZCY27RpM/edit#gid=0) Later in the semester we will be doing student presentations which we will fill in here. -->
 * If you have reading suggestions please send a pull request to this course website on [Github](https://github.com/jhellerstein/CS286-Sp20) by modifying the [index.md](https://github.com/jhellerstein/CS286-Sp20/blob/master/index.md) file.
 
 
