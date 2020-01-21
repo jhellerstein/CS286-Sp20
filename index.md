@@ -105,7 +105,7 @@ This lecture will be an overview of the class and requirements. We will go over 
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Architecture of a Database System](https://scholar.google.com/scholar?cluster=11466590537214723805)
+* [Architecture of a Database System](https://scholar.google.com/scholar?cluster=11466590537214723805), *Sections 1-3 only*.
 
 <div class="optional_reading" markdown="1">
 * [A History and Evaluation of System R](https://scholar.google.com/scholar?cluster=9472628621431764243&hl=en&as_sdt=0,5)
