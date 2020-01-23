@@ -126,7 +126,7 @@ After the landmark success of System R in the 1970s (which you hopefully
 studied in CS262A), IBM Almaden's database group
 was among the first to tackle the challenge of Distributed Databases in the 1980s. We'll read two detailed papers from the project, one on transaction processing (specifically two-phase commit) and one on query optimization.
 
-* [Lecture notes]()
+* [Lecture notes](https://docs.google.com/document/d/1rOt8eAwTf4iIX-qzIRhatgbOmSJ--mh9Z7F0-ywjo3c/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
