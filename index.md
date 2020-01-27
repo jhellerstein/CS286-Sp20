@@ -5,7 +5,7 @@ layout: default
 
 # Graduate Database Systems (Spring 2020)
 
-* **When**: *Tuesday/Thursday 9:30-12:00*
+* **When**: *Tuesday/Thursday 9:30-11:00*
 * **Where**: *Soda 320*
 * **Instructor**: [Joe Hellerstein](https://dsf.berkeley.edu/jmh)
    * **Office Hours:** TBD.
