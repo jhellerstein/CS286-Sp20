@@ -145,7 +145,7 @@ Berkeley's INGRES project was the competitor to System R in the 1970s.
 Postgres was the follow-on project in the 1980's and '90s, focusing on
 building an *extensible* database system that could handle new data types, richer queries and even ad hoc computation (UDFs) "close to the data". The programmability of Postgres UDFs presaged the big data movement of the 2000's. Postgres was a classic "second system", rich in ideas, not all of which panned out. But Postgres' extensible architecture arguably saved it from the [second system effect](https://en.wikipedia.org/wiki/Second-system_effect), and its architecture today is quite similar to how it looked in the early 1990s.
 
-* [Lecture notes]()
+* [Lecture notes](https://docs.google.com/document/d/14LTjziRp3gCI_g8C8RQzx7dZeUx7PlsOYKX6kWutqiQ/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
