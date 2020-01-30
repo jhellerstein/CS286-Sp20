@@ -114,7 +114,6 @@ This lecture will be an overview of the class and requirements. We will go over 
 * [Database System Geneaology Map](https://hpi.de/naumann/projects/rdbms-genealogy.html)
 * [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) provides some pretty good advice on how to read papers effectively.
 * Timothy Roscoe's [writing reviews for systems conferences](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf) will also help you in the reviewing process.
-
 </div>
 </div>
 </div>
@@ -163,7 +162,7 @@ building an *extensible* database system that could handle new data types, riche
 Historically the database systems field was relatively small in academia. 
 One of the largest and most influential academic groups was at the University of Wisconsin. In addition to a range of theory work, Wisconsin in the 1980's and 1990's pursued themes in both Parallel Databases in the Gamma project (presaging the data warehouse and big data movements) and Object-Oriented Databases in the Exodus and SHORE projects (the "losing side" in the database extensibility wars. Or was it?)
 
-* [Lecture notes]()
+* [Lecture notes](https://docs.google.com/document/d/1L9siK1VQn6e9tUWoA3TF16Y6lnEdEnsGte31NuxkdVM/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -174,6 +173,40 @@ One of the largest and most influential academic groups was at the University of
 <!-- </div> -->
 </div>
 </div>
+
+{% include syllabus_entry %}
+## Foundations of Concurrency Control: Bernstein and Goodman
+Bernstein and Goodman's 1981 Computing Surveys paper covers nearly every trick imaginable in concurrency control. Everything since is very likely a combination of techniques in this paper. 
+
+* [Lecture notes]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Concurrency Control in Distributed Database Systems](http://db.cs.berkeley.edu/cs286/papers/bernstein-csur1981.pdf)
+
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Concurrency Control Performance
+Our first paper is a classic example of good performance work, which cleaned up controversies in prior work by questioning their assumptions and building the right simulation.
+
+Our second paper is a seminal but largely overlooked work by Kung and Papadimitriou defining what "optimality" might mean for concurrency control performance. It embraces au courant ideas like exploiting program semantics and integrity constraints into the definition and looks at how much they can help in theory.
+
+
+* [Lecture notes]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Concurrency control performance modeling: alternatives and implications](https://dsf.berkeley.edu/cs286/papers/carey-tods1987.pdf)
+ * [An optimality theory of concurrency control for Databases](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.433.7591&rep=rep1&type=pdf)
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
 
 
 </td>
