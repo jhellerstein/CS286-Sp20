@@ -178,7 +178,7 @@ One of the largest and most influential academic groups was at the University of
 ## Foundations of Concurrency Control: Bernstein and Goodman
 Bernstein and Goodman's 1981 Computing Surveys paper covers nearly every trick imaginable in concurrency control. Everything since is very likely a combination of techniques in this paper. 
 
-* [Lecture notes]()
+* [Lecture notes](https://docs.google.com/document/d/1mrS7GSb9GYhMo7PyUunfXdS79ZOXIhIoE5OZe9SWr0c/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
