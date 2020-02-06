@@ -232,7 +232,7 @@ I will be out at Microsoft on a RISE faculty expedition; speaker TBD.
 
 {% include syllabus_entry %}
 ## Weak Isolation
-Three papers. One is co-authored by Atul Adya and occasional database research contributor and Turing winner [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov), one is co-authored by incoming Berkeley faculty [Natacha Crooks](https://nacrooks.github.io/), and yet another appearance from Pat and Betty O'Neil.
+Three papers. A classic, co-authored by Atul Adya and occasional database research contributor and Turing winner [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov), a brand new look at the problem co-authored by incoming Berkeley faculty [Natacha Crooks](https://nacrooks.github.io/), and yet another appearance from Pat and Betty O'Neil discussing a very common weak isolation mode: Snapshot Isolation.
 
 Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis.org/), which identifies and pushes the boundary of what's possible with coordination-free isolation levels.
 
