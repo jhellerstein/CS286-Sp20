@@ -215,7 +215,7 @@ Our first paper is a classic reference on B-tree concurrency, a surprisingly tri
 
 Optional reading for those who are curious about concurrency and recovery for extensible DBMSs.
 
-* [Lecture notes]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/1yD3-v_9YCfKYirHcjf0SgxHFqZMsBfGj2KUKJocG0N4/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
