@@ -41,6 +41,8 @@ basis for subsequent papers.
 In the second phase, we will follow a weekly pattern used in other
 Berkeley graduate courses in recent years. The Thursday lecture will be presented by Prof. Hellerstein and will cover the context of the topic as well as a high-level overview of the reading for the week.  The Tuesday lecture will be organized around a mini program committee meeting for the weeks readings.  Students will be required to submit detailed reviews for a subset of the papers and lead the paper review discussions.  The goal of this format is to both build a mastery of the material and develop your ability to evaluate and review research--including your own.
 
+As a template, we will use these ["program committee" template slides](https://docs.google.com/presentation/d/1bxGL9cQziVhGQzhq-rBXxuYnuP3745Ye3PRg_1QZj3I/edit#slide=id.g62c62a7e48_0_75) from Joseph Gonzalez.
+
 
 ## Syllabus
 
