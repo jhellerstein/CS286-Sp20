@@ -207,6 +207,48 @@ Our second paper is a seminal but largely overlooked work by Kung and Papadimitr
 </div>
 </div>
 
+{% include syllabus_entry %}
+## Indexing
+Our first paper is a classic reference on B-tree concurrency, a surprisingly tricky topic. Later in the semester we will likely see more recent adaptations of this work for main-memory database. The next two papers represent classic and widely-used indexing techniques, both of which are due to the late [Pat O'Neil](https://en.wikipedia.org/wiki/Patrick_O%27Neil), who passed away this past year. His wife Betty was a frequent co-author.
+
+Optional reading for those who are curious about concurrency and recovery for extensible DBMSs.
+
+* [Lecture notes]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Efficient locking for concurrent operations on B-trees](https://scholar.google.com/scholar?cluster=4919657903329720293&hl=en&as_sdt=0,5)
+* [Improved query performance with variant indexes](http://scholar.google.com/scholar?cluster=3279297021955127822)
+* [The log-structured merge-tree (LSM-tree)](http://scholar.google.com/scholar?cluster=5832040552580693098)
+<div class="optional_reading" markdown="1">
+   [Concurrency and recovery in generalized search trees](https://scholar.google.com/scholar?cluster=425098644227477639&hl=en&as_sdt=0,5)
+</div>
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Weak Isolation and Replica Consistency
+I will be out at Microsoft on a RISE faculty expedition; speaker TBD.
+
+{% include syllabus_entry %}
+## Weak Isolation
+Three papers. One is co-authored by Atul Adya and occasional database research contributor and Turing winner [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov), one is co-authored by incoming Berkeley faculty [Natacha Crooks](https://nacrooks.github.io/), and yet another appearance from Pat and Betty O'Neil.
+
+Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis.org/), which identifies and pushes the boundary of what's possible with coordination-free isolation levels.
+
+* [Lecture notes]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Generalized Isolation Level Definitions](http://db.cs.berkeley.edu/cs286/papers/adya-icde2000.pdf)
+* [Seeing is believing: A client-centric specification of database isolation](https://scholar.google.com/scholar?cluster=12578509121254706480&hl=en&as_sdt=0,5)
+* [Precisely Serializable Snapshot Isolation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6793&rep=rep1&type=pdf)
+<div class="optional_reading" markdown="1">
+ * [Scalable Atomic Visibility with RAMP Transactions](http://www.bailis.org/papers/ramp-sigmod2014.pdf)
+ * [Highly Available Transactions: Virtues and Limitations](https://www.vldb.org/pvldb/vol7/p181-bailis.pdf)
+</div>
+</div>
+</div>
 
 
 </td>
