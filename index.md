@@ -256,7 +256,7 @@ Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis
 </tbody>
 </table>
 
-
+More tentative syllabus [here](https://docs.google.com/spreadsheets/d/1P1FoyTejwmcYAAmiNP9TkgEGltQkD2lCUYEIf1qbcNs/edit?usp=sharing).
 
 ## Projects
 
