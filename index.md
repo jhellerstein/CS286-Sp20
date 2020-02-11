@@ -230,7 +230,7 @@ Optional reading for those who are curious about concurrency and recovery for ex
 
 {% include syllabus_entry %}
 ## Introduction to Weak Isolation and Replica Consistency
-I will be out at Microsoft on a RISE faculty expedition; speaker TBD.
+I will be out at Microsoft on a RISE faculty expedition. [Chenggang Wu](http://cgwu.io/) will present the lecture.
 
 {% include syllabus_entry %}
 ## Weak Isolation
