@@ -238,7 +238,7 @@ Three papers. A classic, co-authored by Atul Adya and occasional database resear
 
 Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis.org/), which identifies and pushes the boundary of what's possible with coordination-free isolation levels.
 
-* [Lecture notes]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/1yd6Hh7oLOrOHWQ6QLfvvCv4w-MCf-I8tugDdtXgMnE4/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
