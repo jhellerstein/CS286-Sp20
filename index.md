@@ -232,6 +232,8 @@ Optional reading for those who are curious about concurrency and recovery for ex
 ## Introduction to Weak Isolation and Replica Consistency
 I will be out at Microsoft on a RISE faculty expedition. [Chenggang Wu](http://cgwu.io/) will present the lecture.
 
+* [Chenggang's slides on Isolation Levels](https://drive.google.com/file/d/1hxAO9HCmcICEEgBmo4sPT8-JHMCF870P/view?usp=sharing)
+
 {% include syllabus_entry %}
 ## Weak Isolation
 Three papers. A classic, co-authored by Atul Adya and occasional database research contributor and Turing winner [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov), a brand new look at the problem co-authored by incoming Berkeley faculty [Natacha Crooks](https://nacrooks.github.io/), and yet another appearance from Pat and Betty O'Neil discussing a very common weak isolation mode: Snapshot Isolation.
