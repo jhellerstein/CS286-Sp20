@@ -256,14 +256,14 @@ Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis
 
 {% include syllabus_entry %}
 ## Introduction to Application-Level Consistency
+In Kung & Papadimitriou, we looked in the (very) abstract at the idea that higher levels of concurrency could be allowed with more application information. This week we look at concrete examples of this idea including an influential design pattern paper from industry (Helland/Campbell) and papers from two of the leading academic efforts of the last decade: Berkeley's Bloom language and INRIA's CRDT efforts (which you may have read about in CS262A.)
 
 * [Lecture Notes]()
 
 {% include syllabus_entry %}
 ## Application-Level Consistency
-In Kung & Papadimitriou, we looked in the (very) abstract at the idea that higher levels of concurrency could be allowed with more application information. This week we look at concrete examples of this idea including an influential design pattern paper from industry (Helland/Campbell) and papers from two of the leading academic efforts of the last decade: Berkeley's Bloom language and INRIA's CRDT efforts (which you may have read about in CS262A.)
 
-Additional background reading is offered on each. 
+Additional background reading is offered for each of the papers we're reading. 
 
 * [Slides for class discussion]()
 
