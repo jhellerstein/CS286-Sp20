@@ -256,12 +256,21 @@ Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis
 
 {% include syllabus_entry %}
 ## Introduction to Application-Level Consistency
-In Kung & Papadimitriou, we looked in the (very) abstract at the idea that higher levels of concurrency could be allowed with more application information. This week we look at concrete examples of this idea including an influential design pattern paper from industry (Helland/Campbell) and papers from two of the leading academic efforts of the last decade: Berkeley's Bloom language and INRIA's CRDT efforts (which you may have read about in CS262A.)
+To introduce this lecture, I'll start with two conjectures in distributed computing: Eric Brewer's CAP Conjecture, and my own CALM Conjecture. Each of these was subsequently formalized and proven. I'll talk about the two conjectures, the two theorems, and the distance between conjecture and theorem in both cases. We will also discuss the relationship between all four.
 
 * [Lecture Notes]()
 
+<div class="reading">
+<div class="optional_reading" markdown="1">
+* [CAP twelve years later: How the" rules" have changed](https://scholar.google.com/scholar?cluster=17642052422667212790&hl=en&as_sdt=0,5)
+* [Keeping CALM: When Distributed Consistency is Easy](https://arxiv.org/abs/1901.01930)
+</div>
+</div>
+
 {% include syllabus_entry %}
 ## Application-Level Consistency
+
+In Kung & Papadimitriou, we looked in the (very) abstract at the idea that higher levels of concurrency could be allowed with more application information. This week we look at concrete examples of this idea including an influential design pattern paper from industry (Helland/Campbell) and papers from two of the leading academic efforts of the last decade: Berkeley's Bloom language and INRIA's CRDT efforts (which you may have read about in CS262A.)
 
 Additional background reading is offered for each of the papers we're reading. 
 
@@ -287,6 +296,7 @@ Additional background reading is offered for each of the papers we're reading.
 
 {% include syllabus_entry %}
 ## Learning-Based Query Optimization
+Class-led discussion; Prof H will be away.
 
 * [Slides for class discussion]()
 
