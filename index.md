@@ -332,12 +332,19 @@ Class-led discussion; Prof H will be away.
 
 {% include syllabus_entry %}
 ## Introduction to Approximate Query Processing
+As background, you might want to skim the light optional reading for this day.
 
 * [Lecture Notes]()
 
+<div class="reading">
+   <div class="optional_reading" markdown="1">
+* [Data Sketching](https://dl.acm.org/ft_gateway.cfm?id=3104030&ftid=1877912&dwn=1)
+* [Interactive Data Analysis: The CONTROL Project](https://scholar.google.com/scholar?cluster=12516415207233566357&hl=en&as_sdt=0,5)
+</div>
+</div>
+
 {% include syllabus_entry %}
 ## Approximate Query Processing
-As background, please skim this light introductory paper: [Data Sketching](https://dl.acm.org/ft_gateway.cfm?id=3104030&ftid=1877912&dwn=1)
 * [Slides for class discussion]()
 
 <div class="reading">
@@ -359,6 +366,13 @@ Guest lecturer (Faculty Retreat!)
 * [Lecture Notes]()
 
 {% include syllabus_entry %}
+Spring Break
+
+
+{% include syllabus_entry %}
+Spring Break
+
+{% include syllabus_entry %}
 ## Main Memory Query Processing
 
 * [Slides for class discussion]()
@@ -378,7 +392,6 @@ Guest lecturer (Faculty Retreat!)
 
 {% include syllabus_entry %}
 ## Main Memory Concurrency Control
-Guest lecturer (Faculty Retreat!)
 * [Slides for class discussion]()
 
 <div class="reading">
