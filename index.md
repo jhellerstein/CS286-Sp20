@@ -254,6 +254,165 @@ Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis
 </div>
 </div>
 
+{% include syllabus_entry %}
+## Introduction to Application-Level Consistency
+
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## Application-Level Consistency
+In Kung & Papadimitriou, we looked in the (very) abstract at the idea that higher levels of concurrency could be allowed with more application information. This week we look at concrete examples of this idea including an influential design pattern paper from industry (Helland/Campbell) and papers from two of the leading academic efforts of the last decade: Berkeley's Bloom language and INRIA's CRDT efforts (which you may have read about in CS262A.)
+
+Additional background reading is offered on each. 
+
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Building on Quicksand](https://arxiv.org/pdf/0909.1788)
+* [Consistency Analysis in Bloom: A CALM And Collected Approach](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
+* [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks](http://www.academia.edu/download/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf)
+<div class="optional_reading" markdown="1">
+ * [Dynamo: Amazon's Highly Available Key Value Store](https://scholar.google.com/scholar?cluster=5432858092023181552&hl=en&as_sdt=0,5)
+ * [Consistency Analysis in Bloom: a CALM and Collected Approach](https://dsf.berkeley.edu/papers/cidr11-bloom.pdf)
+ * [Conflict-Free Replicated Data Types](https://hal.inria.fr/inria-00609399/document)
+</div>
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Learning and Database Systems
+
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## Learning-Based Query Optimization
+
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Deep Unsupervised Cardinality Estimation](http://www.vldb.org/pvldb/vol13/p279-yang.pdf)
+* [Neo: A Learned Query Optimizer](http://www.vldb.org/pvldb/vol12/p1705-marcus.pdf)
+* [Towards a Learning Optimizer for Shared Clouds](http://www.vldb.org/pvldb/vol12/p210-wu.pdf)
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Query Processing Revisited
+
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## New Approaches to Join Processing
+
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Leapfrog Triejoin: A Worst-Case Optimal Join Algorithm](https://arxiv.org/abs/1210.0481)
+* [Eddies: Continuously Adaptive Query Processing](https://dsf.berkeley.edu/cs286/papers/eddies-sigmod2000.pdf)
+* [Lifting the Burden of History from Adaptive Query Processing](http://www.vldb.org/conf/2004/RS24P2.PDF)
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Approximate Query Processing
+
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## Approximate Query Processing
+As background, please skim this light introductory paper: [Data Sketching](https://dl.acm.org/ft_gateway.cfm?id=3104030&ftid=1877912&dwn=1)
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Wander Join: Online Aggregation via Random Walks](https://dl.acm.org/doi/pdf/10.1145/2882903.2915235?casa_token=UkiEtIJPRx8AAAAA:rdaB3XDEJk8-1HJsta-t4mkEG4ZSLNFRsvZsarvgSBPsoK4W2h1TkqxysncsDBbbF-bAMsTSHUnUzg)
+* [I've Seen Enough: Incrementally Improving Visualizations to Support Rapid Decision Making.](http://data-people.cs.illinois.edu/papers/incvisage-paper.pdf)
+* [VerdictDB: Universalizing Approximate Query Processing](https://dl.acm.org/doi/pdf/10.1145/3183713.3196905?casa_token=HVn_ZtcZi9AAAAAA:yN6EyK9rzodimErAw40qTs3P9wW0BcnZDLDYRO3Dbqr2m2Bin8Hx3R2rpAYZCSrFjUSy-r7lCyQDHg)
+<div class="optional_reading" markdown="1">
+ * [Online Aggregation](http://control.cs.berkeley.edu/online/online.pdf)
+ * [Partial Results for Online Query Processing](https://dsf.berkeley.edu/papers/sigmod02-partial.pdf)
+ * [Approximate Query Engines: Commercial Challenges and Research Opportunities](https://dl.acm.org/doi/pdf/10.1145/3035918.3056098?casa_token=yO91tBSqKIgAAAAA:eVCEbaTV1bDMPUDl9sn_ABlQqJGi2IfKYBFrHvd63jewlapnbIhgCWbFfJxKZ7Rfu_cYWlGvDm3w5Q)
+</div>
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Main-Memory Query Processing
+Guest lecturer (Faculty Retreat!)
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## Main Memory Query Processing
+
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+*
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Main-Memory Concurrency Control
+
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## Main Memory Concurrency Control
+Guest lecturer (Faculty Retreat!)
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* 
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Cloud Databases
+Guest lecturer (Passover)
+
+* [Lecture Notes]()
+
+{% include syllabus_entry %}
+## Cloud Databases
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* 
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Programming Support for DB-Backed Applications
+Guest lecturer (Passover)
+
+* [Lecture Notes]()
+{% include syllabus_entry %}
+## Programming Support for Database-Backed Applications
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* 
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
 
 </td>
 </tr>
