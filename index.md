@@ -198,7 +198,7 @@ Our first paper is a classic example of good performance work, which cleaned up 
 Our second paper is a seminal but largely overlooked work by Kung and Papadimitriou defining what "optimality" might mean for concurrency control performance. It embraces au courant ideas like exploiting program semantics and integrity constraints into the definition and looks at how much they can help in theory.
 
 
-* [Lecture notes]()
+* [Lecture notes](https://docs.google.com/document/d/1Huu1zMfD0Zh0rkQ0KoVomLd5RQr5hJdqhrFRMN32bWg/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -258,7 +258,7 @@ Optional reading from then-Berkeley PhD student [Peter Bailis](http://www.bailis
 ## Introduction to Application-Level Consistency
 To introduce this lecture, I'll start with two conjectures in distributed computing: Eric Brewer's CAP Conjecture, and my own CALM Conjecture. Each of these was subsequently formalized and proven. I'll talk about the two conjectures, the two theorems, and the distance between conjecture and theorem in both cases. We will also discuss the relationship between all four.
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/document/d/1eYKGgqRfhB-KQRD2mC_E8Hm-YVgMkZO2JFd5mfAxJ3E/edit?usp=sharing)
 
 <div class="reading">
 <div class="optional_reading" markdown="1">
