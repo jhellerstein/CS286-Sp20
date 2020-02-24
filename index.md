@@ -274,7 +274,7 @@ In Kung & Papadimitriou, we looked in the (very) abstract at the idea that highe
 
 Additional background reading is offered for each of the papers we're reading. 
 
-* [Slides for class discussion]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/18AcwyRI_RnLgdpfrV0XT4zomI-gtDem1XdveUiyEeMw/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -298,7 +298,7 @@ Additional background reading is offered for each of the papers we're reading.
 ## Learning-Based Query Optimization
 Class-led discussion; Prof H will be away.
 
-* [Slides for class discussion]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/1gB6eN3B06EZ82kunpftCco6_dJMcaVUKdcit0-7yN88/edit?usp=sharing)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
