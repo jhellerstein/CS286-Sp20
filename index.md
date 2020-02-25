@@ -279,7 +279,7 @@ Additional background reading is offered for each of the papers we're reading.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Building on Quicksand](https://arxiv.org/pdf/0909.1788)
-* [Consistency Analysis in Bloom: A CALM And Collected Approach](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
+* [Logic and Lattices for Distributed Systems](http://db.cs.berkeley.edu/papers/socc12-blooml.pdf)
 * [Logoot-Undo: Distributed Collaborative Editing System on P2P Networks](http://www.academia.edu/download/39769048/Logoot-Undo_Distributed_Collaborative_Ed20151107-5753-e8mgn.pdf)
 <div class="optional_reading" markdown="1">
  * [Dynamo: Amazon's Highly Available Key Value Store](https://scholar.google.com/scholar?cluster=5432858092023181552&hl=en&as_sdt=0,5)
