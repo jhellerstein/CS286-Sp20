@@ -292,7 +292,10 @@ Additional background reading is offered for each of the papers we're reading.
 {% include syllabus_entry %}
 ## Introduction to Learning and Database Systems
 
-* [Lecture Notes]()
+* [Notes: ML+DB, ML+QO, Neo](https://docs.google.com/document/d/1fu-ihMbefbQErcRPcds5Bi2TxF4CxLmamWhvqMN3Mig/edit?usp=sharing)
+* [Slides on CARDLearner](https://drive.google.com/file/d/18DMsYodshkmSmJJFS50LfbZK0vIyIqfn/view?usp=sharing)
+* [Slides on Naru](https://drive.google.com/file/d/19f3smK7tHueBciHa5I0FAQEXFG_ZHJQc/view?usp=sharing)
+
 
 {% include syllabus_entry %}
 ## Learning-Based Query Optimization
