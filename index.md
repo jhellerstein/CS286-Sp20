@@ -316,7 +316,7 @@ Class-led discussion; Prof H will be away.
 {% include syllabus_entry %}
 ## Query Processing Revisited
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/document/d/1clzcplQ_CwQttAlyDmudbyMzmGZywYE9jK9E-zNADwQ/edit?usp=sharing)
 
 {% include syllabus_entry %}
 ## New Approaches to Join Processing
