@@ -337,7 +337,7 @@ Class-led discussion; Prof H will be away.
 ## Introduction to Approximate Query Processing
 As background, you might want to skim the light optional reading for this day.
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/document/d/19IJFdcP_41G9eXDxrTlkyfN9WXzt0l0sUMHd0I0JnHc/edit?usp=sharing)
 
 <div class="reading">
    <div class="optional_reading" markdown="1">
