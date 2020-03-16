@@ -348,7 +348,7 @@ As background, you might want to skim the light optional reading for this day.
 
 {% include syllabus_entry %}
 ## Approximate Query Processing
-* [Slides for class discussion]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/11kTKq7AW4HHiqv0zva8RRYHbulS1xehbhK-9mB6ywME/edit)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -365,8 +365,7 @@ As background, you might want to skim the light optional reading for this day.
 
 {% include syllabus_entry %}
 ## Introduction to Main-Memory Query Processing
-Guest lecturer (Faculty Retreat!)
-* [Lecture Notes]()
+**Lecture Cancelled** (Faculty Retreat!)
 
 {% include syllabus_entry %}
 Spring Break
@@ -378,11 +377,13 @@ Spring Break
 {% include syllabus_entry %}
 ## Main Memory Query Processing
 
-* [Slides for class discussion]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/1hJloJuen6oHcDXXPlJNMszTn2MSF2w2jGD3oMWC_eRQ/edit#slide=id.p1)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-*
+* [Efficiently Compiling Efficient Query Plans for Modern Hardware](https://www.vldb.org/pvldb/vol4/p539-neumann.pdf)
+* [Morsel-Driven Parallelism: a NUMA-aware query evaluation framework for the many-core age](https://dl.acm.org/doi/pdf/10.1145/2588555.2610507?casa_token=4dDLr5__N10AAAAA:XvnxPOr99fPkZtDfjyOS-nNhiJthVD3Lp8LJdrUdMN2liNenoaXV68J9fmg-2ujpmMAnGb3BRV_uqg)
+* [LeanStore](https://db.in.tum.de/~leis/papers/leanstore.pdf)
 <!-- <div class="optional_reading" markdown="1"> -->
 <!-- </div> -->
 </div>
@@ -395,13 +396,16 @@ Spring Break
 
 {% include syllabus_entry %}
 ## Main Memory Concurrency Control
-* [Slides for class discussion]()
+* [Slides for class discussion](https://docs.google.com/presentation/d/1skxxLdPE_eY1KHC_wpHCY-uuX58Za0rEhszRugCzmzk/edit)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* 
-<!-- <div class="optional_reading" markdown="1"> -->
-<!-- </div> -->
+* [High-Performance Concurrency Control Mechanisms for Main-Memory Databases](https://vldb.org/pvldb/vol5/p298_per-akelarson_vldb2012.pdf)
+* [Fast Serializable Multi-Version Concurrency Control for Main-Memory DB Systems](https://dl.acm.org/doi/pdf/10.1145/2723372.2749436?casa_token=4FJLKRhWfVkAAAAA:G4HHOtduR28eAVfWTAJrOpoPpwrWM4000Ns9cgWO8RlGvkVffPcMVepcHSCfnlkr7KrX92bzGt7I8Q)
+* [Opportunities for Optimism in Contended Main-Memory Multicore Transactions](http://www.vldb.org/pvldb/vol13/p629-huang.pdf)
+<div class="optional_reading" markdown="1">
+* [Meerkat: Multicore-Scalable Replicated Transactions Following the Zero-Coordination Principle](https://dada.cs.washington.edu/research/tr/2019/11/UW-CSE-19-11-02.pdf)   
+</div>
 </div>
 </div>
 
