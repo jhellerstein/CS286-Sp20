@@ -377,7 +377,7 @@ Spring Break
 {% include syllabus_entry %}
 ## Main Memory Query Processing
 
-* [Slides for class discussion](https://docs.google.com/presentation/d/1ZA1p3XOB1tZ3Q1VsJQ3_n9qPOIxtKCRzJl7Tt91eqG0/edit)
+* [Slides for class discussion](https://docs.google.com/presentation/d/1F5cnPePRN8OrlrVI6h2S7GPxUd2CApNjRy0B3BGkdM4/edit)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
