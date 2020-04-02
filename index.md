@@ -392,7 +392,7 @@ Spring Break
 {% include syllabus_entry %}
 ## Introduction to Main-Memory Concurrency Control
 
-* [Lecture Notes]()
+* [Lecture Notes](https://docs.google.com/document/d/1VN4rG_QMAv0-nebNwU2YR8I7kUKDI8q4DSwQe-F4T_0/edit?usp=sharing)
 
 {% include syllabus_entry %}
 ## Main Memory Concurrency Control
