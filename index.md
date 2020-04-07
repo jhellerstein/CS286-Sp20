@@ -396,7 +396,7 @@ Spring Break
 
 {% include syllabus_entry %}
 ## Main Memory Concurrency Control
-* [Slides for class discussion](https://docs.google.com/presentation/d/1skxxLdPE_eY1KHC_wpHCY-uuX58Za0rEhszRugCzmzk/edit)
+* [Slides for class discussion](https://docs.google.com/presentation/d/1skxxLdPE_eY1KHC_wpHCY-uuX58Za0rEhszRugCzmzk/edit#slide=id.p1) and [here](https://docs.google.com/presentation/d/1hJloJuen6oHcDXXPlJNMszTn2MSF2w2jGD3oMWC_eRQ/edit) (oops!)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -410,30 +410,46 @@ Spring Break
 </div>
 
 {% include syllabus_entry %}
-## Introduction to Cloud Databases
-Guest lecturer (Passover)
-
-* [Lecture Notes]()
-
-{% include syllabus_entry %}
-## Cloud Databases
-* [Slides for class discussion]()
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* 
-<!-- <div class="optional_reading" markdown="1"> -->
-<!-- </div> -->
-</div>
-</div>
-
-{% include syllabus_entry %}
 ## Introduction to Programming Support for DB-Backed Applications
 Guest lecturer (Passover)
 
 * [Lecture Notes]()
+
 {% include syllabus_entry %}
 ## Programming Support for Database-Backed Applications
+* [Slides for class discussion](https://docs.google.com/presentation/d/1tKz8lDHmmpReziajIhyIlASvhid58Lq0xta2xSla_lA/edit)
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* 
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Introduction to Cloud Databases
+Guest lecturer (Passover)
+
+* [Lecture Notes]()
+{% include syllabus_entry %}
+## Cloud Databases
+* [Slides for class discussion](https://docs.google.com/presentation/d/1Qs7s2a01HGiQIHbY5qwfjIpnqHl7i2ZM9i4UjnzVthQ/edit)
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* 
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
+{% include syllabus_entry %}
+## Topic TBA
+
+* [Lecture Notes]()
+{% include syllabus_entry %}
+## Paper Discussion TBA
 * [Slides for class discussion]()
 
 <div class="reading">
@@ -444,6 +460,21 @@ Guest lecturer (Passover)
 </div>
 </div>
 
+{% include syllabus_entry %}
+## Topic TBA
+
+* [Lecture Notes]()
+{% include syllabus_entry %}
+## Paper Discussion TBA
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* 
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
 </td>
 </tr>
 </tbody>
