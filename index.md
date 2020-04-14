@@ -483,7 +483,7 @@ Guest lecturer: Alex Lloyd (Google)
 * [Holoclean: Holistic data repairs with probabilistic inference](https://arxiv.org/pdf/1702.00820)
 * [Blinkfill: Semi-supervised programming by example for syntactic string transformations](https://dl.acm.org/doi/pdf/10.14778/2977797.2977807)
 * [Activeclean: Interactive data cleaning for statistical modeling](https://dl.acm.org/doi/pdf/10.14778/2994509.2994514)
-<!-- </div> -->
+</div>
 </div>
 </div>
 </td>
