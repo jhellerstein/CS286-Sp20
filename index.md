@@ -450,7 +450,7 @@ Guest lecturer: Alex Lloyd (Google)
 </div>
 
 {% include syllabus_entry %}
-## Topic TBA
+## Stream Query Processing
 
 * [Lecture Notes]()
 {% include syllabus_entry %}
@@ -459,15 +459,16 @@ Guest lecturer: Alex Lloyd (Google)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* 
+* TBA
+* TBA
+* TBA
 <!-- <div class="optional_reading" markdown="1"> -->
 <!-- </div> -->
 </div>
 </div>
 
 {% include syllabus_entry %}
-## Topic TBA
-
+## Data Wrangling and Cleaning
 * [Lecture Notes]()
 {% include syllabus_entry %}
 ## Paper Discussion TBA
@@ -475,8 +476,13 @@ Guest lecturer: Alex Lloyd (Google)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* 
-<!-- <div class="optional_reading" markdown="1"> -->
+* [Wrangler: Interactive visual specification of data transformation scripts](http://vis.stanford.edu/files/wrangler.pdf)
+* [Raha: A configuration-free error detection system](https://www.bigdama.tu-berlin.de/fileadmin/fg326/portraits/mohammad/raha_paper.pdf)
+* [Deep Learning For Entity Matching: A Design Space Exploration](http://pages.cs.wisc.edu/~anhai/papers1/deepmatcher-tr.pdf)
+<div class="optional_reading" markdown="1">
+* [Holoclean: Holistic data repairs with probabilistic inference](https://arxiv.org/pdf/1702.00820)
+* [Blinkfill: Semi-supervised programming by example for syntactic string transformations](https://dl.acm.org/doi/pdf/10.14778/2977797.2977807)
+* [Activeclean: Interactive data cleaning for statistical modeling](https://dl.acm.org/doi/pdf/10.14778/2994509.2994514)
 <!-- </div> -->
 </div>
 </div>
