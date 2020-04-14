@@ -411,9 +411,10 @@ Spring Break
 
 {% include syllabus_entry %}
 ## Introduction to Programming Support for DB-Backed Applications
-Guest lecturer (Passover)
+Guest lecturer: Alvin Cheung, UC Berkeley
 
-* [Lecture Notes]()
+* [Lecture Notes](https://drive.google.com/open?id=1UTEw6exOTxxDrJxfKj0MLiPaFjEgx3sA)
+* [Lecture video](https://drive.google.com/open?id=16QRUW8CqY9ugZWwGtWKbnFYkwap4uQnT) (Berkeley only)
 
 {% include syllabus_entry %}
 ## Programming Support for Database-Backed Applications
@@ -421,7 +422,9 @@ Guest lecturer (Passover)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* 
+* [Orleans: Distributed Virtual Actors for Programmability and Scalability](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Orleans-MSR-TR-2014-41.pdf)
+* [Optimizing Database-Backed Applications with Query Synthesis](http://people.csail.mit.edu/akcheung/papers/pldi13.pdf)
+* [Feral concurrency control: An empirical investigation of modern application integrity](https://amplab.cs.berkeley.edu/wp-content/uploads/2015/06/feral-sigmod2015.pdf)
 <!-- <div class="optional_reading" markdown="1"> -->
 <!-- </div> -->
 </div>
@@ -429,7 +432,7 @@ Guest lecturer (Passover)
 
 {% include syllabus_entry %}
 ## Introduction to Cloud Databases
-Guest lecturer (Passover)
+Guest lecturer: Alex Lloyd (Google)
 
 * [Lecture Notes]()
 {% include syllabus_entry %}
@@ -438,7 +441,9 @@ Guest lecturer (Passover)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* 
+* [Spanner: Google's Globally Distributed Database](https://dl.acm.org/doi/pdf/10.1145/2491245)
+* [Amazon Aurora: Design considerations for high throughput cloud-native relational databases](https://dl.acm.org/doi/pdf/10.1145/3035918.3056101)
+* [Amazon Aurora: On Avoiding Distributed Consensus for I/Os, Commits, and Membership Changes](https://dl.acm.org/doi/pdf/10.1145/3183713.3196937)
 <!-- <div class="optional_reading" markdown="1"> -->
 <!-- </div> -->
 </div>
