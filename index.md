@@ -450,24 +450,6 @@ Guest lecturer: Alex Lloyd (Google)
 </div>
 
 {% include syllabus_entry %}
-## Stream Query Processing
-
-* [Lecture Notes]()
-{% include syllabus_entry %}
-## Paper Discussion TBA
-* [Slides for class discussion]()
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* TBA
-* TBA
-* TBA
-<!-- <div class="optional_reading" markdown="1"> -->
-<!-- </div> -->
-</div>
-</div>
-
-{% include syllabus_entry %}
 ## Data Wrangling and Cleaning
 * [Lecture Notes]()
 {% include syllabus_entry %}
@@ -485,6 +467,25 @@ Guest lecturer: Alex Lloyd (Google)
 * [Activeclean: Interactive data cleaning for statistical modeling](https://dl.acm.org/doi/pdf/10.14778/2994509.2994514)
 </div>
 </div>
+
+{% include syllabus_entry %}
+## Stream Query Processing
+
+* [Lecture Notes]()
+{% include syllabus_entry %}
+## Paper Discussion TBA
+* [Slides for class discussion]()
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* TBA
+* TBA
+* TBA
+<!-- <div class="optional_reading" markdown="1"> -->
+<!-- </div> -->
+</div>
+</div>
+
 </div>
 </td>
 </tr>
